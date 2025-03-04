@@ -74,7 +74,7 @@ An example deployment template:
   ]
 }
 ```
-
+ 
 The following table describes each property of guest assignment resources.
 
 |          Property          |                                                            Description                                                            |
